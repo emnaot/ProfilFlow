@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Providers\Services\**" />
+    <Content Remove="Providers\Services\**" />
+    <EmbeddedResource Remove="Providers\Services\**" />
+    <None Remove="Providers\Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Providers\OnBehalfOfMsGraphAuthenticationProvider.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.AI.FormRecognizer" Version="4.1.0" />
+    <PackageReference Include="Azure.Identity" Version="1.11.3" />
+    <PackageReference Include="itext7" Version="8.0.4" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.39.1" />
+    <PackageReference Include="Microsoft.Graph" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.60.3" />
+    <PackageReference Include="Microsoft.Identity.Client.Extensions.Msal" Version="4.60.3" />
+    <PackageReference Include="Microsoft.Identity.Web.Certificate" Version="2.18.1" />
+    <PackageReference Include="Microsoft.Identity.Web.MicrosoftGraph" Version="2.18.1" />
+    <PackageReference Include="Microsoft.Identity.Web.TokenCache" Version="2.18.1" />
+    <PackageReference Include="Microsoft.IdentityModel.Clients.ActiveDirectory" Version="5.3.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.25.0" />
+    <PackageReference Include="more365.AzureAD" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Providers\" />
+    <Folder Include="service\" />
+  </ItemGroup>
+
+</Project>
