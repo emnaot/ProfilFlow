@@ -34,4 +34,9 @@ ProfilFlow is an AI-powered web application designed to simplify and optimize ta
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).  
+By using this project, you agree to the terms and conditions of the AGPL-3.0 license, which requires you to share any modifications if you deploy this project publicly.
+
+For more details, please refer to the [LICENSE](./LICENSE) file.
+
