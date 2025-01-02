@@ -21,7 +21,7 @@ ProfilFlow is an AI-powered web application designed to simplify and optimize ta
 
 - **Employee Search & Selection**: Easily find and select the right employees for specific roles.
 - **Comprehensive CV Management**: Handle and update CVs with new skills and projects automatically.
-- **AI-Driven CV Generation**: Generate professional CVs using AI to save time and maintain quality.
+- **CV Generation**: Generate professional CVs to save time and maintain quality.
 - **User Roles & Permissions**: Manage access securely by assigning specific roles and permissions.
 
 ## Tech Stack
