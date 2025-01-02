@@ -5,7 +5,6 @@
 <img src="https://github.com/user-attachments/assets/f68839eb-53f9-486e-946a-f2e5af7401d4" alt="Gestion des Cv utilisateurs" width="400" />
 <img src="https://github.com/user-attachments/assets/dd03e2f3-57c7-4fd3-ac1d-6083d7314b70" alt="Consultation du CV" width="400" />
 <img src="https://github.com/user-attachments/assets/d2b59759-9554-45b5-a5d5-cb8c13a9a76f" alt="Édition du CV" width="400" />
-<img src="https://github.com/user-attachments/assets/f1a18dfc-89d8-4c32-9878-296b08b533d4" alt="Gestion des rôles" width="400" />
 <img src="https://github.com/user-attachments/assets/36de0dc0-9e72-41ff-9adf-5eb216e73226" alt="Remplissage de formulaire" width="400" />
 <img src="https://github.com/user-attachments/assets/7b299840-fe6e-4286-b25a-a46681a081fd" alt="Résultat des collaborateurs adéquats pour une mission" width="400" />
 <img src="https://github.com/user-attachments/assets/82387af3-6382-431d-8434-5b9b04e72b71" alt="Choix des modèles de CV" width="400" />
