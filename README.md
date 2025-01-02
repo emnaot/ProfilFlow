@@ -14,7 +14,7 @@
 [Watch Demo on YouTube](https://www.youtube.com/watch?v=iz_Qoo0w5eo&t=122s&ab_channel=emnaothmen)
 ## Description
 
-ProfilFlow is an AI-powered web application designed to simplify and optimize talent management. It allows companies to efficiently search for and select the right employees for specific missions. The system includes comprehensive CV management, automatic updates of employee profiles with new skills and projects, and an AI-driven CV generation feature. Role and permission management ensures secure access, reducing administrative workload and improving resource allocation.
+ProfilFlow is an AI-powered web application designed to simplify and optimize talent management. It allows companies to efficiently search for and select the right employees for specific missions. The system includes comprehensive CV management, automatic updates of employee profiles with new skills and projects, and a CV generation feature. Role and permission management ensures secure access, reducing administrative workload and improving resource allocation.
 
 
 ## Key Features
